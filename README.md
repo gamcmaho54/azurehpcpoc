@@ -4,9 +4,6 @@
 ![GitHub Image](/images/azureHpcPoc.jpg)
 <br>
 <br>
-# Azure HPC PoC
-<br>
-<br>
 Clone the repo to your local device<br>
 Modify the parameters.json<br>
 Deploy to Azure by running, az deployment sub create --name hpcPocDeploy --location <region> --template-file main.bicep --parameters parameters.json<br><br>
